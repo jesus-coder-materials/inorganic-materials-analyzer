@@ -4,10 +4,16 @@ A Python GUI application for analyzing crystallographic and optoelectronic prop
 
 **Features**
 
--Crystal Structure Analysis
--Energy Band Gap (DFT vs Experimental)
--Ionic Radius Assessment and Coordination Number, Pauling's Rules, and Grimm-Sommerfeld Rule
--Support for elemental, binary, ternary, quaternary, and others compounds
+- **Crystal Structure Analysis**
+  - Detailed evaluation of lattice parameters, symmetry, and space groups.
+- **Energy Band Gap Assessment**
+  - Comparative analysis: **DFT (Density Functional Theory) vs. Experimental** data.
+- **Crystal Chemistry & Bonding Rules**
+  - Ionic radius assessment and coordination number determination.
+  - Validation of **Pauling's Rules** for ionic structures.
+  - Application of the **Grimm-Sommerfeld Rule** for covalent compounds.
+- **Multi-Component Compound Support**
+  - Full compatibility with **elemental, binary, ternary, quaternary**, and complex multi-ele
 
 **Installation**
 
