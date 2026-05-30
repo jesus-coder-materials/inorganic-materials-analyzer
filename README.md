@@ -12,8 +12,9 @@ A Python GUI application for analyzing crystallographic and optoelectronic prop
 **Installation**
 
 1.	Download the latest release
-2.	Extract and run the .exe or .bin file
-3.	Enter your Materials Project API key on first launch
+2.	You must make the binary executable by running chmod +x IMACH.bin before executing it in Linux
+3.	Extract and run the .exe or .bin file
+4.	Enter your Materials Project API key on first launch
 
 **Usage**
 
