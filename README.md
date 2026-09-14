@@ -33,7 +33,7 @@ A Python GUI application for analyzing crystallographic and optoelectronic prop
 
 GNU License - See LICENSE file
 
-**Author**
+**Authors**
 
 Jesús R. Marquina C.
 
