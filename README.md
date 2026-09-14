@@ -35,4 +35,5 @@ GNU License - See LICENSE file
 
 **Author**
 
-Jesús Rabindaray Marquina Castellanos
+Jesús R. Marquina C.
+Carlos Fernández
